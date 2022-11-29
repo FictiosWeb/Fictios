@@ -25,10 +25,10 @@ Implementar un sitio web que permita a los usuarios editar imágenes de referenc
 
 ### Objetivos Especificos 
 
-Construir una plataforma amigable con el usuario que le permita realizar ediciones de manera intuitiva y sencilla.  
+* Construir una plataforma amigable con el usuario que le permita realizar ediciones de manera intuitiva y sencilla.  
 
-Acceder a una lista de prediseños que se encuentren disponibles en el momento de la elaboración de los diseños  
+* Acceder a una lista de prediseños que se encuentren disponibles en el momento de la elaboración de los diseños  
 
-Proveer distintas formas de pago al usuario de tal manera que el proceso de recaudo por parte de la empresa sea lo más fácil para el usuario.  
+* Proveer distintas formas de pago al usuario de tal manera que el proceso de recaudo por parte de la empresa sea lo más fácil para el usuario.  
 
-Posibilitar categorías que permitan a los clientes seleccionar su producto a diseñar. 
+* Posibilitar categorías que permitan a los clientes seleccionar su producto a diseñar. 
