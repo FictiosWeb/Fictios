@@ -32,3 +32,7 @@ Implementar un sitio web que permita a los usuarios editar imágenes de referenc
 * Proveer distintas formas de pago al usuario de tal manera que el proceso de recaudo por parte de la empresa sea lo más fácil para el usuario.  
 
 * Posibilitar categorías que permitan a los clientes seleccionar su producto a diseñar. 
+
+### Tecnicas de recolección de información.
+
+* https://docs.google.com/forms/d/1Cgr2le1rHvBoqie5n3EXF3B9mXwICg2BNcfTgCUFIYw/edit
