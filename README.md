@@ -1,5 +1,9 @@
 # Sistema Automatizado de Diseño, edición y compra Tienda Fictios 
 
+![](https://github.com/FictiosWeb/Fictios/blob/Testing/Logo.png)
+
+Haciendo realidad tus ideas 
+
 # COMPONENTE METODOLOGICO
 
 ## Planteamiento del Problema
